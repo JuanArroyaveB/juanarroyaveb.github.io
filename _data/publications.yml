@@ -1,0 +1,24 @@
+- title: "Universality of NESS for KPZ"
+  authors:
+    - name: "Juan C. Arroyave"
+      self: true
+    - name: "Milton Jara"
+  note_en: "Work in progress."
+  note_pt: "Trabalho em andamento."
+  note_es: "Trabajo en curso."
+  link_label: ""
+  link_url: ""
+
+- title: "Non-Homogeneous Dawson–Watanabe Process"
+  authors:
+    - name: "Juan C. Arroyave"
+      self: true
+    - name: "Tertuliano Franco"
+      url: "https://tertu.xyz/"
+    - name: "Eduardo Pimenta"
+      url: "https://edusamp3.github.io/"
+  note_en: "Work in progress."
+  note_pt: "Trabalho em andamento."
+  note_es: "Trabajo en curso."
+  link_label: ""
+  link_url: ""

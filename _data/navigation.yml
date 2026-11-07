@@ -1,0 +1,11 @@
+- href: "index.html"
+  labels:
+    en: "Home"
+    pt: "Início"
+    es: "Inicio"
+
+- href: "teaching.html"
+  labels:
+    en: "Teaching"
+    pt: "Ensino"
+    es: "Docencia"

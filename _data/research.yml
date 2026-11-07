@@ -1,0 +1,17 @@
+intro_en: "My work investigates hydrodynamic limits and fluctuations in interacting particle systems. I am particularly interested in the following topics:"
+intro_pt: "Meu trabalho investiga limites hidrodinâmicos e flutuações em sistemas de partículas interagentes. Tenho interesse particular nos seguintes temas:"
+intro_es: "Mi trabajo investiga límites hidrodinámicos y fluctuaciones en sistemas de partículas interactuantes. Me interesan especialmente los siguientes temas:"
+
+topics:
+  - en: "interacting particle systems and their collective behavior;"
+    pt: "sistemas de partículas interagentes e seu comportamento coletivo;"
+    es: "sistemas de partículas interactuantes y su comportamiento colectivo;"
+  - en: "hydrodynamic limits and the derivation of macroscopic PDEs;"
+    pt: "limites hidrodinâmicos e derivação de EDPs macroscópicas;"
+    es: "límites hidrodinámicos y derivación de EDPs macroscópicas;"
+  - en: "fluctuations and stochastic Burgers equations;"
+    pt: "flutuações e equações de Burgers estocásticas;"
+    es: "fluctuaciones y ecuaciones estocásticas de Burgers;"
+  - en: "KPZ universality and fractional variants."
+    pt: "universalidade KPZ e variantes fracionárias."
+    es: "universalidad KPZ y variantes fraccionarias."

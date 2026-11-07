@@ -1,0 +1,12 @@
+sections:
+  research: { en: "Research", pt: "Pesquisa", es: "Investigación" }
+  education: { en: "Education and experience", pt: "Formação e experiência", es: "Formación y experiencia" }
+  affiliations: { en: "Academic affiliations", pt: "Vínculos acadêmicos", es: "Afiliaciones académicas" }
+  publications: { en: "Research in progress", pt: "Pesquisas em andamento", es: "Investigaciones en curso" }
+  contact: { en: "Contact", pt: "Contato", es: "Contacto" }
+labels:
+  skip: { en: "Skip to content", pt: "Ir para o conteúdo", es: "Ir al contenido" }
+  records: { en: "Academic profiles:", pt: "Perfis acadêmicos:", es: "Perfiles académicos:" }
+  pause: { en: "Pause", pt: "Pausar", es: "Pausar" }
+  play: { en: "Play", pt: "Reproduzir", es: "Reproducir" }
+  next: { en: "Next", pt: "Próxima", es: "Siguiente" }

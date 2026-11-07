@@ -1,0 +1,101 @@
+visible: true
+
+title:
+  en: "Teaching"
+  pt: "Ensino"
+  es: "Docencia"
+
+intro:
+  en: "Courses and academic teaching experience."
+  pt: "Disciplinas e experiência de ensino acadêmico."
+  es: "Cursos y experiencia de docencia académica."
+
+empty_message:
+  en: "No courses have been added yet."
+  pt: "Nenhuma disciplina foi adicionada ainda."
+  es: "Todavía no se han añadido cursos."
+
+courses:
+  - title:
+      en: "Substitute Professor"
+      pt: "Professor Substituto"
+      es: "Profesor Sustituto"
+    institution: "Universidade Federal Fluminense (UFF)"
+    period:
+      en: "Current"
+      pt: "Atual"
+      es: "Actual"
+    level:
+      en: "University teaching"
+      pt: "Ensino universitário"
+      es: "Docencia universitaria"
+    description:
+      en: "Current academic position."
+      pt: "Posição acadêmica atual."
+      es: "Posición académica actual."
+    syllabus_url: ""
+    notes_url: ""
+    exercises_url: ""
+
+  - title:
+      en: "Ordinary Differential Equations"
+      pt: "Equações Diferenciais Ordinárias"
+      es: "Ecuaciones Diferenciales Ordinarias"
+    institution: "IMPATech"
+    period:
+      en: "2025"
+      pt: "2025"
+      es: "2025"
+    level:
+      en: "Undergraduate Mathematics"
+      pt: "Graduação em Matemática"
+      es: "Pregrado en Matemáticas"
+    description:
+      en: "Teaching Assistant."
+      pt: "Assistente de ensino."
+      es: "Asistente de docencia."
+    syllabus_url: ""
+    notes_url: ""
+    exercises_url: ""
+
+  - title:
+      en: "Real Analysis"
+      pt: "Análise Real"
+      es: "Análisis Real"
+    institution: "IMPA"
+    period:
+      en: "2024–2025"
+      pt: "2024–2025"
+      es: "2024–2025"
+    level:
+      en: "PhD Summer Program"
+      pt: "Programa de verão do doutorado"
+      es: "Programa de verano del doctorado"
+    description:
+      en: "Teaching Assistant."
+      pt: "Assistente de ensino."
+      es: "Asistente de docencia."
+    syllabus_url: ""
+    notes_url: ""
+    exercises_url: ""
+
+  - title:
+      en: "Geometry and Linear Algebra"
+      pt: "Geometria e Álgebra Linear"
+      es: "Geometría y Álgebra Lineal"
+    institution: "Universidad de Antioquia"
+    period:
+      en: "2016"
+      pt: "2016"
+      es: "2016"
+    level:
+      en: "Undergraduate"
+      pt: "Graduação"
+      es: "Pregrado"
+    description:
+      en: "Teaching Assistant."
+      pt: "Assistente de ensino."
+      es: "Asistente de docencia."
+    syllabus_url: ""
+    notes_url: ""
+    exercises_url: ""

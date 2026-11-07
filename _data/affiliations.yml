@@ -1,0 +1,11 @@
+- name: "IMPA"
+  url: "https://impa.br/"
+  description_en: "Instituto Nacional de Matemática Pura e Aplicada. PhD candidate in Mathematics."
+  description_pt: "Instituto Nacional de Matemática Pura e Aplicada. Doutorando em Matemática."
+  description_es: "Instituto Nacional de Matemática Pura e Aplicada. Doctorando en Matemáticas."
+
+- name: "UFF"
+  url: "https://www.uff.br/"
+  description_en: "Universidade Federal Fluminense. Substitute Professor."
+  description_pt: "Universidade Federal Fluminense. Professor Substituto."
+  description_es: "Universidade Federal Fluminense. Profesor Sustituto."
