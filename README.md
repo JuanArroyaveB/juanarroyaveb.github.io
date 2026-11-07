@@ -1,6 +1,6 @@
 # Academic website — Juan Carlos Arroyave
 
-Clean trilingual academic website in English, Portuguese and Spanish, prepared for GitHub Pages.
+Trilingual academic website in English, Portuguese and Spanish, prepared for GitHub Pages.
 
 ## Main files
 
